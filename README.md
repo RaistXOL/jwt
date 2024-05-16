@@ -4,4 +4,4 @@
 
 A super fast CLI tool to decode and encode JWTs built in [Rust](https://rust-lang.org).
 
-Personalizzato per Insiel e JWT regione Friuli
+Personalizzato per Insiel e JWT regione Friuli.
