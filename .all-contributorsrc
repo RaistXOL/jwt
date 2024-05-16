@@ -1,0 +1,147 @@
+{
+  "projectName": "jwt-cli",
+  "projectOwner": "mike-engel",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "mike-engel",
+      "name": "Mike Engel",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/464447?v=4",
+      "profile": "https://www.mike-engel.com",
+      "contributions": [
+        "code",
+        "question",
+        "doc",
+        "ideas",
+        "maintenance",
+        "review",
+        "test",
+        "bug"
+      ]
+    },
+    {
+      "login": "kyleburton",
+      "name": "Kyle Burton",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/69799?v=4",
+      "profile": "http://asymmetrical-view.com/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "atschaef",
+      "name": "Aaron Schaef",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6707250?v=4",
+      "profile": "https://github.com/atschaef",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hughsimpson",
+      "name": "hughsimpson",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2494489?v=4",
+      "profile": "https://github.com/hughsimpson",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "machawk1",
+      "name": "Mat Kelly",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/2514780?v=4",
+      "profile": "http://matkelly.com",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "JasonMFry",
+      "name": "Jason",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/166681?v=4",
+      "profile": "http://www.jasonmfry.com",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "bsberry",
+      "name": "Ben Berry",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6886697?v=4",
+      "profile": "https://crosscomm.com/",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "therealklanni",
+      "name": "Kevin Lanni",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/626347?v=4",
+      "profile": "https://medium.com/@therealklanni",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kkrauth",
+      "name": "Kosta Krauth",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/680123?v=4",
+      "profile": "https://github.com/kkrauth",
+      "contributions": [
+        "code",
+        "test",
+        "doc"
+      ]
+    },
+    {
+      "login": "codedust",
+      "name": "codedust",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7175914?v=4",
+      "profile": "https://github.com/codedust",
+      "contributions": [
+        "code",
+        "ideas",
+        "test"
+      ]
+    },
+    {
+      "login": "lizfeed",
+      "name": "Liz Frost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61433510?v=4",
+      "profile": "https://github.com/lizfeed",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ceharris",
+      "name": "Carl Harris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3943178?v=4",
+      "profile": "https://github.com/ceharris",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "komi1230",
+      "name": "Yusuke Kominami",
+      "avatar_url": "https://avatars.githubusercontent.com/u/27967726?v=4",
+      "profile": "https://komi.dev",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
